@@ -11,6 +11,7 @@ Objetivos:
     - [ ] Os links curtos devem ser gerado de forma não previsível. Ex: sem id sequencial
     - [ ] O usuário deve estar autenticado para registrar uma url
     - [ ] A URL deve ser expirada após certo período de tempo
+    - [ ] As informações devem ser entregues utilizando GraphQL
   - Extras
     - [ ] A exitência da URL original deve ser verificada no momento da criação da URL curta
     - [ ] O redirecionamento deve ocorrer com a menor latência possível
